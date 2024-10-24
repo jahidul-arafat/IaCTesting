@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="merged">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/output/merged/merged.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
